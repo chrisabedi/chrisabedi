@@ -1,7 +1,7 @@
 ## Hi I'm Chris 👋
 
 
-I'm a Backend engineer working on sharpening up my Go and Python as I think they are both valid and technologically sound languages which the industry will move torwards in the near future. I have 6+ years of proffessional experience in TypeScript and Node.js
+I'm a Backend engineer working on sharpening up on Go and Python and TypeScript have 6+ years of professional experience in mostly in TypeScript and Node.js
 but like to get exposure to other tech stacks when I can
 
 - 🌱 I’m currently learning ...
