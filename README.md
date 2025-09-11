@@ -1,11 +1,11 @@
 ## Hi I'm Chris 👋
 
 
-I'm a Backend engineer working on sharpening up on Go and Python and TypeScript have 6+ years of professional experience in mostly in TypeScript and Node.js
-but like to get exposure to other tech stacks when I can
+I'm a Backend engineer working on sharpening up on Go, Python, and TypeScript. I have 6+ years of professional experience in mostly in TypeScript and Node.js but like to get exposure to other tech stacks :)
 
 - 🌱 I’m currently learning ...
     - Go, Python, and related API Frameworks like Gin, flask, django
+    - Using LLM self hosted code tools like ollama, codellama, and webui as well as vscode extensions like continue
 
 - 🔭 Some random portfolio URLS
     -   [R3BasicAnimations](https://chrisabedi.github.io/r3basicanimation/) Showcase of using animations in React.js and THREE.js -a popular 3D rendering engine
